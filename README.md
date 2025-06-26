@@ -33,3 +33,12 @@ Your site will then be visible at ```http://0.0.0.0:4000/``` in any browser.
 - Version 1.1 contains:
   - A default 404 page
   - A fix for responsiveness of the page hero on mobile screens in landscape mode
+
+
+## Subir cambios locales a la nube
+
+```bash
+git add .
+git commit -am "Update page content"
+git push
+```
